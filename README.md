@@ -20,8 +20,7 @@ An Among Us Shooting game made in Python using very simple code and pygame
 ---
 
 **Screenshots :**
-![Title]()
 
-![In-game]()
+![In-game](https://github.com/NiviDevs/Amogshot/blob/main/dist/screenshots/image.png)
 
 ---
